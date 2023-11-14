@@ -1,2 +1,2 @@
 # jdbc_task1.github.io
-Basic JDBC Task
+Performing CRUD Operations using JDBC in JAVA 
